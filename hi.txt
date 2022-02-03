@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<img src = "sun.jpg"> <p align = "center">
+The sunshine is so bright <br>
+It gives hope to everyone <p>
+
+<body bgcolor = "yellow">
+<u> The world is now suffering <br> from corona virus </u> <p>
+Let us always pray for our health. <p>
+
+<body background = ”circle.jpg”>
+It's a small <br>
+<b> World after all </b> <p>
+
+<img src = "smiley.jpg"> <p align = "right">
+<b> Always wear a smile,  </b> <br> you might inspire somebody <p> with it.
+</body>
+</html>
